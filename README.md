@@ -1,2 +1,2 @@
 # taikwinmu
-Challenge to translate french to find and ewe
+Zindi Challenge to translate french to fon and ewe
